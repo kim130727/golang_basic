@@ -1,3 +1,5 @@
+/*시작하기에 앞서*/
+
 package main
 
 import (
