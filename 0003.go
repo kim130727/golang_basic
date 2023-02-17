@@ -1,3 +1,5 @@
+/*함수 연습1*/
+
 package main
 
 import "fmt"
