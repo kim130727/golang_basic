@@ -4,11 +4,11 @@ package main
 
 import "fmt"
 
-func input(a, b int) (int, int) {
+func input(a, b int) int {
 	return a * b
 }
 
 func main() {
-	num := input()
+	num := input(4, 3)
 	fmt.Println(num)
 }
