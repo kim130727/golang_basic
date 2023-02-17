@@ -10,5 +10,5 @@ func input(a, b int) (int, int) {
 
 func main() {
 	num := input()
-  fmt.Println(num)
+	fmt.Println(num)
 }
