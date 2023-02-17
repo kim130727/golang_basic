@@ -1,3 +1,5 @@
+/*함수*/
+
 package main
 
 import "fmt"
