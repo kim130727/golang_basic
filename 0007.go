@@ -20,5 +20,5 @@ func main() {
   f := "short"
   fmt.Println(f)
 	
-	fmt.Println(globalA)
+  fmt.Println(globalA)
 }
